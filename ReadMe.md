@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on in my **DevOps Stacks**
 
-- 🌱 I’m currently learning **English, Zabbix and Jenkins**
+- 🌱 I’m currently learning **Zabbix and Jenkins**
 
 - 📫 How to reach me [dev.marciorodrigo@gmail.com](mailto:dev.marciorodrigo@gmail.com)
 
