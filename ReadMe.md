@@ -1,7 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on in my DevOps Stacks
-🌱 I’m currently learning English, Zabbix and Jenkins
-📫 How to reach me dev.marciorodrigo@gmail.com
+- 🔭 I’m currently working on in my **DevOps Stacks**
+
+- 🌱 I’m currently learning **English, Zabbix and Jenkins**
+
+- 📫 How to reach me dev.marciorodrigo@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marciorodrigo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mrodrigochaves) 
