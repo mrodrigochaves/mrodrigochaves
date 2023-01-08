@@ -21,7 +21,6 @@
 ### 😂 Random Dev Meme
 <img src="https://cdn.memegenerator.es/imagenes/memes/full/30/92/30922071.jpg" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=mrodrigochaves&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
