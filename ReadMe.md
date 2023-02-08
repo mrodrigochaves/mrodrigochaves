@@ -18,4 +18,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodrigochaves)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodrigochaves&layout=compact)](https://github.com/mrodrigochaves/github-readme-stats)
