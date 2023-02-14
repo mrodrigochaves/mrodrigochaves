@@ -1,6 +1,4 @@
-# 💫 About Me:
 - 🔭 Hi, I’m **Márcio Rodrigo**
-
 - 🌱 I'm interested in **DevOps Stacks**
 
 # 💻 Tech of Stack I like:
