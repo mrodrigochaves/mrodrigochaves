@@ -1,5 +1,5 @@
 - 🔭 Hi, I’m **Márcio Rodrigo**
-- 🌱 I'm interested in **DevOps Stacks**
+- 🌱 I'm interested in **Web Development Stacks**
 
 ## 🌐 Find me elsewhere:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marciorodrigo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrodrigochaves) 
