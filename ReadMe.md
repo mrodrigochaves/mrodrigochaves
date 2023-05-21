@@ -8,7 +8,7 @@
 
 ![mrodrigochaves's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrodrigochaves&theme=default&hide_border=false)
 
-![mrodrigochaves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodrigochaves&hide=html,css,scss,ruby,powershell&theme=default&show_icons=true&hide_border=false&layout=compact)
+![mrodrigochaves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodrigochaves&hide=python,html,css,scss,ruby,powershell&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ### 😂 Random Dev Meme
 <img src="https://cdn.memegenerator.es/imagenes/memes/full/30/92/30922071.jpg" width="512px"/>
