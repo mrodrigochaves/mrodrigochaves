@@ -51,4 +51,5 @@ Sistema web de cadastro desenvolvido em Java Spring Boot e Angular, que permitir
 
 **Tecnologias:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/452156/angular.svg" width="40" height="40"/> <img src="https://material.angular.io/assets/img/angular-material-logo.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/376350/spring.svg" width="40" height="40"/>
 
+
 [![](https://visitcount.itsvg.in/api?id=mrodrigochaves&icon=2&color=3)](https://visitcount.itsvg.in)
